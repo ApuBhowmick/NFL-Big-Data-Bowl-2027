@@ -1,0 +1,17 @@
+{
+  "seed": 20271020,
+  "years": [
+    2023,
+    2024
+  ],
+  "detector_changed": false,
+  "development_cases": 24,
+  "review_sha256": "24d28b7c0cce98ded1320d27459606588a28ce7b819681891e073f058033dc39",
+  "sampling_design": "SRS without replacement within season/route family/detector status; 2 per stratum",
+  "validation_sample_routes": 117,
+  "validation_labels_completed": false,
+  "outcomes_used": false,
+  "held_out_receivers": false,
+  "scope": "three interpretable statuses only; development play keys excluded",
+  "example7_nearest_peak_failed_rules": "speed"
+}
